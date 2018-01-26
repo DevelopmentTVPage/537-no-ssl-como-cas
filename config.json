@@ -1,0 +1,15 @@
+{
+    "title": "NO http",
+    "baseURL": "https:\/\/no.ssl.como.cas",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "como.cas"
+    }
+}
